@@ -1,0 +1,56 @@
+{
+  "data": {
+    "question": [
+      {
+        "question_order": "Câu 1",
+        "content": "Does anybody here speak Vietnamese?",
+        "spelling": "pliːz spiːk mɔːr ˈsloʊli"
+      },
+      {
+        "question_order": "Câu 2",
+        "content": "I am happy to make your acquaintance.",
+        "spelling": "Aɪ æm ˈhæpi tə meɪk jʊər əˈkweɪntəns"
+      },
+      {
+        "question_order": "Câu 3",
+        "content": "I am very pleased to meet you.",
+        "spelling": "Aɪ æm ˈveri plizd tə miːt jʊ"
+      },
+      {
+        "question_order": "Câu 4",
+        "content": "Glad to meet you.",
+        "spelling": "ɡlæd tə miːt jʊ"
+      },
+      {
+        "question_order": "Câu 5",
+        "content": "Please come in.",
+        "spelling": "pliːz kʌm ɪn"
+      },
+      {
+        "question_order": "Câu 6",
+        "content": "Where are you coming from?",
+        "spelling": "wɛr ər jʊ ˈkʌmɪŋ frəm"
+      },
+      {
+        "question_order": "Câu 7",
+        "content": "I don’t understand English well.",
+        "spelling": "aɪ doʊnt ˌʌndərˈstænd ˈɪŋɡlɪʃ wɛl"
+      },
+      {
+        "question_order": "Câu 8",
+        "content": "You speak too fast.",
+        "spelling": "jʊ spiːk tuː fæst"
+      },
+      {
+        "question_order": "Câu 9",
+        "content": "Please speak more slowly.",
+        "spelling": "pliːz spiːk mɔːr ˈsloʊli"
+      },
+      {
+        "question_order": "Câu 10",
+        "content": "What do you wish?",
+        "spelling": "wʌt du jʊ wɪʃ"
+      }
+    ]
+  }
+}
