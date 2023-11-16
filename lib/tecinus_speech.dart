@@ -5,7 +5,6 @@ export 'package:record/record.dart';
 export 'package:flutter_screenutil/flutter_screenutil.dart';
 export 'package:get_it/get_it.dart';
 export 'package:injectable/injectable.dart';
-export 'package:freezed_annotation/freezed_annotation.dart';
 export 'package:flutter_svg/flutter_svg.dart';
 export 'package:equatable/equatable.dart';
 export 'package:flutter_bloc/flutter_bloc.dart';

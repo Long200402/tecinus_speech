@@ -44,11 +44,12 @@ dependencies:
   flutter_bloc: ^8.1.2
   fluttertoast: ^8.2.2
   permission_handler: ^10.3.0
+  record: ^5.0.1
 
 dependency_overrides:
   audioplayers: any
-  record:
-    path: ./package/record/record
+#  record:
+#    path: ./package/record/record
   record_darwin: ^1.0.1-beta.1
 
 dev_dependencies:
