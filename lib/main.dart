@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
   void _incrementCounter() {
-    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const TecinusSpeech(),));
+    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const TecinusSpeechWidget(),));
   }
 
   @override
