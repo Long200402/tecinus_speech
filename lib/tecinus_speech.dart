@@ -9,3 +9,4 @@ export 'package:flutter_svg/flutter_svg.dart';
 export 'package:equatable/equatable.dart';
 export 'package:flutter_bloc/flutter_bloc.dart';
 export 'package:permission_handler/permission_handler.dart';
+export 'package:tecinus_speech/tecinus_speech_widget.dart';
