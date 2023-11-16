@@ -23,6 +23,9 @@ export 'package:equatable/equatable.dart';
 export 'package:flutter_bloc/flutter_bloc.dart';
 export 'package:permission_handler/permission_handler.dart';
 export 'package:tecinus_speech/tecinus_speech_widget.dart';
+export 'package:copy_with_extension/copy_with_extension.dart';
+export 'package:path_provider/path_provider.dart';
+export 'package:freezed_annotation/freezed_annotation.dart';
 
 class TecinusSpeechWidget extends StatefulWidget {
   const TecinusSpeechWidget({super.key});
