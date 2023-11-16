@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:tecinus_speech/tecinus_speech.dart';
+import 'package:tecinus_speech/tecinus_speech_widget.dart';
 
 void main() {
   runApp(const MyApp());

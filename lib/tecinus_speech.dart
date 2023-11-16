@@ -1,14 +1,12 @@
 
 library tecinus_speech;
 
-export 'package:tecinus_speech/tecinus_speech_widget.dart';
 export 'package:record/record.dart';
-export 'package:flutter/foundation.dart';
-export 'package:flutter/material.dart';
-export 'package:flutter_bloc/flutter_bloc.dart';
 export 'package:flutter_screenutil/flutter_screenutil.dart';
-export 'package:tecinus_speech/bloc/speech_bloc.dart';
-export 'package:tecinus_speech/widget/dialog_service.dart';
-export 'package:tecinus_speech/widget/item_list_speak.dart';
-export 'package:tecinus_speech/widget/progress_answer_widget.dart';
-export 'package:tecinus_speech/widget/recoder.dart';
+export 'package:get_it/get_it.dart';
+export 'package:injectable/injectable.dart';
+export 'package:freezed_annotation/freezed_annotation.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export 'package:equatable/equatable.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
+export 'package:permission_handler/permission_handler.dart';
