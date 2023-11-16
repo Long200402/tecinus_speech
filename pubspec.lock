@@ -737,11 +737,12 @@ packages:
     source: hosted
     version: "1.2.3"
   record:
-    dependency: "direct overridden"
+    dependency: "direct main"
     description:
-      path: "package/record/record"
-      relative: true
-    source: path
+      name: record
+      sha256: be9b710f42edf94f939dda1a1688e82a68dcd391be0a836c01e639a249f133d3
+      url: "https://pub.dev"
+    source: hosted
     version: "5.0.1"
   record_android:
     dependency: transitive
