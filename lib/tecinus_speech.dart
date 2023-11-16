@@ -14,13 +14,6 @@ import 'app_theme/app_styles.dart';
 import 'base/bloc/bloc_status.dart';
 import 'gen/assets.gen.dart';
 
-export 'package:record/record.dart';
-export 'package:copy_with_extension/copy_with_extension.dart';
-export 'package:freezed_annotation/freezed_annotation.dart';
-export 'package:path_provider/path_provider.dart';
-export 'package:http/http.dart';
-export 'package:http_parser/http_parser.dart';
-
 class TecinusSpeech extends StatefulWidget {
   const TecinusSpeech({super.key});
 
