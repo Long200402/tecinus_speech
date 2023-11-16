@@ -38,6 +38,7 @@ class SpeechTextService {
 
     try {
       var streamedResponse = await request.send().timeout(const Duration(seconds: 5));
+      // var streamedResponse = await request.send();
       if (streamedResponse.statusCode == 200) {
         var response = await streamedResponse.stream.bytesToString();
         var decodedData = json.decode(response);
