@@ -1,3 +1,6 @@
+
+library tecinus_speech;
+
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -13,6 +16,14 @@ import 'app_theme/app_colors.dart';
 import 'app_theme/app_styles.dart';
 import 'base/bloc/bloc_status.dart';
 import 'gen/assets.gen.dart';
+
+export 'widget/recoder.dart';
+export 'widget/item_list.dart';
+export 'widget/item_list_speak.dart';
+export 'widget/audio_player.dart';
+export 'widget/dialog_service.dart';
+export 'widget/soccer_widget.dart';
+export 'widget/progress_answer_widget.dart';
 
 class TecinusSpeech extends StatefulWidget {
   const TecinusSpeech({super.key});
